@@ -1,6 +1,6 @@
-Claro, aqui está o README atualizado com emojis para adicionar um pouco de diversão e personalidade ao seu projeto! 😄
 
-```markdown
+
+
 # 🌍 API de Gerenciamento de Lugares
 
 Este é um projeto de API para gerenciar lugares (CRUD) que faz parte do desafio para desenvolvedores backend que se candidatam para a ClickBus. 🚌
