@@ -10,8 +10,6 @@ Este é um projeto de API para gerenciar lugares (CRUD) que faz parte do desafio
 - Spring Boot
 - Spring Webflux
 - Spring Data + R2DBC
-- SpringDoc OpenAPI 3
-- Slugify
 
 ## 📚 Práticas Adotadas
 
