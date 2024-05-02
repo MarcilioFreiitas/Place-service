@@ -50,5 +50,5 @@ Para fazer as requisições HTTP abaixo, foi utilizada a ferramenta httpie:
 - GET /places/{id}: `http :8080/places/1` 📬
 - GET /places?name=? : `http :8080/places name==PLACE` 📬
 - PATCH /places/{id}: `http PATCH :8080/places/1 name='New Name' state='New State'` 📝
-```
-Espero que você goste! 😊
+
+
